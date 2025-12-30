@@ -48,7 +48,10 @@ No future prediction.
 Just clear, data-driven guidance.
 
 <img width="884" height="556" alt="image" src="https://github.com/user-attachments/assets/1f7b4319-0a6f-4810-971c-9d2786894350" />
-## 📊 Dataset Description
+
+
+
+##   📊 Dataset Description
 
 Source: Real job descriptions dataset (downloaded manually, not via API)
 
